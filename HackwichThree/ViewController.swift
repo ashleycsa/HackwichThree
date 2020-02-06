@@ -30,7 +30,6 @@ class ViewController: UIViewController
         if firstString == "The background will turn to red"
         {
             self.view.backgroundColor = UIColor.red
-            
         }
         else
         {
